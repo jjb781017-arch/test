@@ -32,36 +32,25 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:0,NatGeo HD CA
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeo_logo_white_bg.png/250px-Natgeo_logo_white_bg.png",NatGeo HD CA
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6485/index.m3u8
-#EXTINF:0,Nat Geo Wild FHD
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nat_Geo_Wild_logo.svg/1200px-Nat_Geo_Wild_logo.svg.png",Nat Geo Wild FHD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2415/index.m3u8
-#EXTINF:0,Viasat History HD
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Viasat_History.png/250px-Viasat_History.png",Viasat History HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6002/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Channel_logo.svg/1200px-Discovery_Channel_logo.svg.png",Discovery Channel HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/227/index.m3u8
-#EXTINF:0,CNN HD CA
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN HD CA
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6538/index.m3u8
-#EXTINF:0,CNN International Europe
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN International Europe
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/842/index.m3u8
-#EXTINF:0,CNBC
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png",CNBC
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/962/index.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC World News
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/545/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",Animal Planet HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/218/index.m3u8
-#EXTINF:0,BBC America
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_America.svg/1200px-BBC_America.svg.png",BBC America
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/1092/index.m3u8
-#EXTINF:0,BBC Earth FHD PL
-#EXTGRP:unsorted
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BBC_Earth_logo_2023.svg/1200px-BBC_Earth_logo_2023.svg.png",BBC Earth FHD PL
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6100/index.m3u8
