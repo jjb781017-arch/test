@@ -47,3 +47,11 @@ http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/962/index.m3u8
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/218/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Unsorted",BBC Earth FHD PL
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6100/index.m3u8
+#EXTINF:-1 tvg-id="TBN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TBN_logo_2015.jpg" group-title="Religious",TBN
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CBNNews.us@SD" tvg-logo="https://www.glorywaves.org/wp-content/uploads/2020/03/CBN-Logo-Black.jpeg" group-title="News",CBN News Channel (1080p)
+https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="CBNFamily.us@SD" tvg-logo="https://www.peoplefor.org/sites/default/files/styles/half_image/public/rww/CBN-logo2.png?h=90a76ea9&itok=sAdU1KAz" group-title="Religious",CBN Family (1080p)
+https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="GodTV.us" tvg-logo="https://www.god.tv/wp-content/uploads/2026/02/gtv-site-icon.png" group-title="Religious",GOD TV (720p)
+https://ott.god.tv/live/us/master.m3u8
